@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VEdit/static/css/main.61efe0ee.css",
+    "main.js": "/VEdit/static/js/main.119d38e0.js",
+    "static/js/787.7a07e4de.chunk.js": "/VEdit/static/js/787.7a07e4de.chunk.js",
+    "index.html": "/VEdit/index.html",
+    "main.61efe0ee.css.map": "/VEdit/static/css/main.61efe0ee.css.map",
+    "main.119d38e0.js.map": "/VEdit/static/js/main.119d38e0.js.map",
+    "787.7a07e4de.chunk.js.map": "/VEdit/static/js/787.7a07e4de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61efe0ee.css",
+    "static/js/main.119d38e0.js"
+  ]
+}
