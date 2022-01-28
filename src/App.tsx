@@ -32,6 +32,7 @@ function PublicRoutes()
             </header>
             <Routes>
                 <Route path="/" element={<HomeView />} />
+                <Route path="/VEdit/" element={<HomeView />} />
                 <Route path="/login" element={<LoginView />} />
                 <Route path="/signup" element={<SignUpView />} />
                 <Route path="*" element={<NotFound404 />} />
@@ -72,6 +73,7 @@ function ProtectedRoutes({ user, logOut }: any)
             </header>
             <Routes>
                 <Route path="/" element={<HomeView />} />
+                <Route path="/VEdit/" element={<HomeView />} />
                 <Route path="/login" element={<LoginView />} />
                 <Route path="/account" element={<AccountView />} />
                 <Route path="/projects" element={<FileListView />} />
